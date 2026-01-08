@@ -40,3 +40,7 @@ o teadlased ja autorid.
 Igaüks, kellele on oluline failide haldamine ja muudatuste jälgimine, võib GitHubi kasutada.
 
 Tulevikus võin GitHubi kasutada klassiprojektide salvestamiseks ja teiste õpilastega koostöö tegemiseks.
+
+
+GitHubi asutasid 2008. aastal Tom Preston-Werner, Chris Wanstrath ja PJ Hyett.
+GitHub on kasutajatele saadaval olnud alates 2008. aastast.
