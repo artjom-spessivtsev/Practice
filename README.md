@@ -1,2 +1,2 @@
 # Practice
-et tegemist on versioonihalduse harjutamisega GitHubis.
+Lisa hoidlale kirjeldus, et tegemist on versioonihalduse harjutamisega GitHubis.
