@@ -1,40 +1,42 @@
 Mis on GitHub
-GitHub on veebipõhine platvorm, mida kasutatakse programmikoodi salvestamiseks, haldamiseks ja ühises arendamises töötamiseks. Lihtsamalt öeldes on see koht internetis, kus arendajad saavad oma projekte hoida, muuta ja koos teiste inimestega arendada.
-GitHub põhineb versioonihaldussüsteemil Git. Git võimaldab salvestada kogu projekti muudatuste ajaloo: kes tegi muudatuse, millal see tehti ja mida täpselt muudeti. Kui koodi tekib viga, on võimalik naasta varasema versiooni juurde. GitHub muudab Git’i kasutamise mugavamaks ja visuaalsemaks tänu veebiliidesele.
-GitHubis hoitakse projekte repositooriumides. Repositoorium võib sisaldada:
+GitHub on veebipÃµhine platvorm, mida kasutatakse programmikoodi salvestamiseks, haldamiseks ja Ã¼hises arendamises tÃ¶Ã¶tamiseks. Lihtsamalt Ã¶eldes on see koht internetis, kus arendajad saavad oma projekte hoida, muuta ja koos teiste inimestega arendada.
+GitHub pÃµhineb versioonihaldussÃ¼steemil Git. Git vÃµimaldab salvestada kogu projekti muudatuste ajaloo: kes tegi muudatuse, millal see tehti ja mida tÃ¤pselt muudeti. Kui koodi tekib viga, on vÃµimalik naasta varasema versiooni juurde. GitHub muudab Gitâ€™i kasutamise mugavamaks ja visuaalsemaks tÃ¤nu veebiliidesele.
+GitHubis hoitakse projekte repositooriumides. Repositoorium vÃµib sisaldada:
 * programmikoodi,
 * tekstifaile,
 * dokumentatsiooni,
 * pilte,
-* juhendeid programmi kasutamiseks või paigaldamiseks.
-GitHubi üks olulisemaid omadusi on koostöö. Mitu inimest saavad samal ajal töötada ühe projekti kallal, pakkuda oma muudatusi ja arutada neid. Selleks kasutatakse tööriistu nagu:
-* pull request – ettepanek muudatuste lisamiseks,
-* issues – vead, küsimused ja ülesanded,
-* branches – eraldi harud erinevate muudatuste jaoks.
-GitHub on väga populaarne ka avatud lähtekoodiga (open source) projektide jaoks. See tähendab, et kood on kõigile nähtav ja igaüks võib seda uurida, kasutada või täiendada.
+* juhendeid programmi kasutamiseks vÃµi paigaldamiseks.
+GitHubi Ã¼ks olulisemaid omadusi on koostÃ¶Ã¶. Mitu inimest saavad samal ajal tÃ¶Ã¶tada Ã¼he projekti kallal, pakkuda oma muudatusi ja arutada neid. Selleks kasutatakse tÃ¶Ã¶riistu nagu:
+* pull request â€“ ettepanek muudatuste lisamiseks,
+* issues â€“ vead, kÃ¼simused ja Ã¼lesanded,
+* branches â€“ eraldi harud erinevate muudatuste jaoks.
+GitHub on vÃ¤ga populaarne ka avatud lÃ¤htekoodiga (open source) projektide jaoks. See tÃ¤hendab, et kood on kÃµigile nÃ¤htav ja igaÃ¼ks vÃµib seda uurida, kasutada vÃµi tÃ¤iendada.
 
 
 Kes kasutavad GitHubi
-GitHubi kasutavad väga erinevad inimesed ja organisatsioonid.
+GitHubi kasutavad vÃ¤ga erinevad inimesed ja organisatsioonid.
 1. Programmeerijad ja tarkvaraarendajad
 See on GitHubi peamine kasutajaskond. Arendajad kasutavad GitHubi:
 o oma projektide salvestamiseks,
-o meeskonnatööks,
+o meeskonnatÃ¶Ã¶ks,
 o koodi jagamiseks,
 o isikliku portfoolio loomiseks,
-o teiste arendajate koodi õppimiseks.
-2. IT-ettevõtted ja idufirmad
-Paljud ettevõtted kasutavad GitHubi oma toodete arendamiseks, näiteks veebilehed, mobiilirakendused, mängud ja tarkvara. GitHub aitab organiseerida tööprotsessi ja jälgida arenduse edenemist.
-3. Õpilased ja algajad programmeerijad
-GitHub on väga kasulik õppimiseks. Õpilased ja tudengid laadivad sinna oma koolitöid, harjutusi ja projekte ning õpivad samal ajal versioonihaldust ja meeskonnatööd.
-4. Õpetajad ja haridusasutused
-Õpetajad saavad GitHubi kaudu jagada õppematerjale, anda ülesandeid ja kontrollida õpilaste töid. Seda kasutatakse sageli programmeerimiskursustel ja ülikoolides.
-5. Suured organisatsioonid ja tehnoloogiaettevõtted
-Sellised ettevõtted nagu Google, Microsoft ja Meta avaldavad GitHubis oma teeke ja projekte. See aitab kaasa tehnoloogia arengule ja koostööle arendajate vahel üle maailma.
+o teiste arendajate koodi Ãµppimiseks.
+2. IT-ettevÃµtted ja idufirmad
+Paljud ettevÃµtted kasutavad GitHubi oma toodete arendamiseks, nÃ¤iteks veebilehed, mobiilirakendused, mÃ¤ngud ja tarkvara. GitHub aitab organiseerida tÃ¶Ã¶protsessi ja jÃ¤lgida arenduse edenemist.
+3. Ã•pilased ja algajad programmeerijad
+GitHub on vÃ¤ga kasulik Ãµppimiseks. Ã•pilased ja tudengid laadivad sinna oma koolitÃ¶id, harjutusi ja projekte ning Ãµpivad samal ajal versioonihaldust ja meeskonnatÃ¶Ã¶d.
+4. Ã•petajad ja haridusasutused
+Ã•petajad saavad GitHubi kaudu jagada Ãµppematerjale, anda Ã¼lesandeid ja kontrollida Ãµpilaste tÃ¶id. Seda kasutatakse sageli programmeerimiskursustel ja Ã¼likoolides.
+5. Suured organisatsioonid ja tehnoloogiaettevÃµtted
+Sellised ettevÃµtted nagu Google, Microsoft ja Meta avaldavad GitHubis oma teeke ja projekte. See aitab kaasa tehnoloogia arengule ja koostÃ¶Ã¶le arendajate vahel Ã¼le maailma.
 6. Mitte ainult programmeerijad
 GitHubi kasutavad ka inimesed, kes ei ole otseselt programmeerijad:
 o tehnilised kirjutajad,
 o disainerid,
-o andmeanalüütikud,
+o andmeanalÃ¼Ã¼tikud,
 o teadlased ja autorid.
-Igaüks, kellele on oluline failide haldamine ja muudatuste jälgimine, võib GitHubi kasutada.
+IgaÃ¼ks, kellele on oluline failide haldamine ja muudatuste jÃ¤lgimine, vÃµib GitHubi kasutada.
+
+Tulevikus vÃµin GitHubi kasutada klassiprojektide salvestamiseks ja teiste Ãµpilastega koostÃ¶Ã¶ tegemiseks.
